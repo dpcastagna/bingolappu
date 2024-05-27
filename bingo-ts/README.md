@@ -1,6 +1,6 @@
 npm install  
 npm run dev  
-npm build  
+npm run build  
 
 # React + TypeScript + Vite
 
